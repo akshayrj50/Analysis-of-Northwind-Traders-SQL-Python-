@@ -1,4 +1,4 @@
-# Analysis-of-Northwind-Traders-SQL-Python
+# Analysis of Northwind Traders using SQL & Python
 This project uses the Northwind database which has over a dozen tables. Here is the schema of the tables to be used in this project [Northwind database schema](https://drive.google.com/uc?export=view&id=1hmGefXnVODAgLZMxFyzcK4ehxPHGeM7e)
 
 The database schema provides an overview of the Northwind database's tables, columns, relationships, and constraints, which is an essential resource for constructing accurate and efficient SQL queries.
